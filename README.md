@@ -6,7 +6,8 @@ In this project, I built LSTM and bidirectional LSTM models to classify headline
 The dataset contains financial-domain sentences collected from two resources: the FiQA dataset and the Financial PhraseBank accessed via Kaggle. The corpus consist of thousands of short text samples, each annotated for sentiment  as positive, negative, or neutral. 
 The dataset contains 5,322 unique sentences comprising a total of 122,710 words. Each entry represents a financial text sample written in English.
 **Implementation Details**
-![alt text](<Model architecture/ModelArchitecture.jpg>)
+
+<img src="Model architecture/ModelArchitecture.jpg" alt="Model Architecture" width="400">
 
 **Results**
 
